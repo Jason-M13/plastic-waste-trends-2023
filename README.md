@@ -14,10 +14,6 @@ This project explores the trends, disparities, and environmental impacts of **gl
 
 A key focus is understanding **regional differences in waste management** and identifying which countries contribute most significantly to global plastic pollution and why.
 
-![Plastic Waste](plasticWaste.jpg)
-
-*Image Source: [World Bank - Tackling Increasing Plastic Waste](https://datatopics.worldbank.org/what-a-waste/tackling_increasing_plastic_waste.html)*
-
 ---
 
 ##  Dataset
