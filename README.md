@@ -44,6 +44,17 @@ A key focus is understanding **regional differences in waste management** and id
 
 ---
 
+## Data Cleaning & Preprocessing
+
+To ensure accurate and insightful analysis, the dataset was filtered, cleaned, and organized through the following steps:
+
+- Dropped rows with missing or null values
+- Standardized column names and restructured column order
+- Filtered data by relevant attributes (e.g., year, country inclusion)
+- Converted data types 
+
+---
+
 ## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Numpy)
