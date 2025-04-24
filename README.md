@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project explores the trends, disparities, and environmental impacts of **global plastic waste** based on a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis?resource=download). The analysis covers 165 countries and dives into:
+This project explores the trends, disparities, and environmental impacts of **global plastic waste** based on a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis?resource=download). The analysis covers 165 countries and provides an introspective on:
 
 - Total plastic waste generation (in million metric tons)
 - Primary waste sources
@@ -14,13 +14,13 @@ This project explores the trends, disparities, and environmental impacts of **gl
 
 A key focus is understanding **regional differences in waste management** and identifying which countries contribute most significantly to global plastic pollution and why.
 
-![Plastic Waste](https://datatopics.worldbank.org/what-a-waste/img/v3_waste_disposal_site.jpg)
+![Plastic Waste](plasticWaste.jpg)
 
 *Image Source: [World Bank - Tackling Increasing Plastic Waste](https://datatopics.worldbank.org/what-a-waste/tackling_increasing_plastic_waste.html)*
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Source**: [Kaggle: Global Plastic Waste 2023](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis?resource=download)
 - **Features Include**:
@@ -31,7 +31,7 @@ A key focus is understanding **regional differences in waste management** and id
 
 ---
 
-## 🧠 Key Questions
+## Main Questions Explored 
 
 - Which countries generate the most plastic waste and what are the causes?
 - How do recycling rates vary across countries and regions?
@@ -39,7 +39,7 @@ A key focus is understanding **regional differences in waste management** and id
 
 ---
 
-## 🔍 Sections of Analysis
+##  Sections of Analysis
 
 1. **Data Collection**: Overview and structure of the dataset
 2. **Exploratory Data Analysis**: Descriptive stats and visualizations
@@ -48,28 +48,14 @@ A key focus is understanding **regional differences in waste management** and id
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn, Numpy)
 - Jupyter Notebook
-- Git & GitHub
-
 ---
 
-## 📚 References
+## References
 
 - [OECD Report on Global Plastic Waste (2022)](https://www.oecd.org/en/about/news/press-releases/2022/02/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.html)
 - [World Bank Waste Data Hub](https://datatopics.worldbank.org/what-a-waste/)
 
----
-
-## 💡 Motivation
-
-The rise of global plastic production and inadequate waste management have created significant environmental challenges. This project aims to raise awareness and explore the **data-driven story** behind plastic pollution to inform better policy and sustainability practices.
-
----
-
-## 👤 Author
-
-**Jason Mong**  
-[GitHub Profile](https://github.com/Jason-M13)
